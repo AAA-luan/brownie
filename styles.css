@@ -1,0 +1,141 @@
+body {
+  color: #61656d;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  padding: 24px;
+}
+
+.box {
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-sizing: border-box;
+
+  padding: 20px;
+  width: 798px;
+}
+
+.title {
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+
+  color: #ff6a28;
+}
+
+.subtitle {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+.image {
+  margin-top: 14px;
+}
+
+.align-box {
+  display: flex;
+  justify-content: space-between;
+  width: 746px;
+}
+
+.all-box {
+  background-color: #f0f0f0;
+
+  text-transform: uppercase;
+  width: 118px;
+  height: 85px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.size {
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 6px;
+}
+
+.strong-color {
+  color: #ff6a28;
+}
+
+.author-box {
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  width: 238px;
+  height: 85px;
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-author {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.information-author {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 11px;
+}
+
+.ingredients-box {
+  background-color: #ffffff;
+  margin-top: 37px;
+ 
+}
+
+.title-box {
+  display: flex;
+ justify-content: center;
+}
+
+ .icon-title {
+   margin-left: 8px;
+ }
+
+ .list {
+   padding-left: 20px;
+    margin-top: 12px;
+ }
+
+ .list-item {
+   margin-top: 10px;
+ }
+
+ .prepare-mode-box {
+   margin-top: 16px;
+ }
+
+ .preparation-item {
+   margin-bottom: 20px;
+ }
+
+ .add-info-box {
+   margin-top: 16px;
+ }
+
+ .title-box-info {
+   background-color: #f0f0f0;
+   padding: 8px 0 8px 0;
+display: flex;
+justify-content: center;
+ }
+ .info-add-tile {
+   text-transform: uppercase;
+   font-weight: 700;
+   font-size: 16px;
+ }
+
+ .info-text {
+   margin-top: 16px
+ }
